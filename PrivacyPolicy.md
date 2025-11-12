@@ -23,5 +23,4 @@ Pinsgo can call third-party translation APIs (e.g., Apple Translation, Volcengin
 - You can disable third-party providers or use the built-in Apple Translation engine if you prefer to avoid external services.
 
 ## Contact
-For privacy questions, contact: support@pinsgo.app
-
+For privacy questions, contact: voderment@icloud.com
