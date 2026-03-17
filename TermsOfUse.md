@@ -51,7 +51,7 @@ You are responsible for verifying output before using it for any important decis
 
 ## 5. Third-party services
 
-Pinsgo may allow you to use Apple services, third-party translation or cloud services, custom endpoints, and infrastructure providers used to operate Pinsgo's built-in service. These third-party services may include services provided by Alibaba Cloud and other service partners.
+Pinsgo may allow you to use Apple services, third-party translation or cloud services, custom endpoints, and infrastructure providers used to operate Pinsgo's built-in service. These third-party services may include services provided by Alibaba Cloud and other third-party service providers.
 
 Those third parties may have their own terms, privacy policies, rate limits, and service practices. Pinsgo is not responsible for third-party services, including their availability, output quality, security practices, or data handling.
 

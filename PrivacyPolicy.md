@@ -98,7 +98,7 @@ If you configure and use a third-party service, Pinsgo may send the text you wan
 
 ### Pinsgo built-in cloud service
 
-If you use the built-in Pinsgo translation service, your request may be sent through Pinsgo-operated backend services, including authentication and translation gateway services, and then to third-party cloud translation infrastructure or services used to fulfill the request. These third-party services may include services provided by Alibaba Cloud and other infrastructure or translation partners. In that mode, Pinsgo may process:
+If you use the built-in Pinsgo translation service, your request may be sent through Pinsgo-operated backend services, including authentication and translation gateway services, and then to third-party cloud translation infrastructure or services used to fulfill the request. These third-party services may include services provided by Alibaba Cloud and other third-party infrastructure or translation service providers. In that mode, Pinsgo may process:
 
 - the text submitted for translation;
 - pseudonymous user/app identifiers;
