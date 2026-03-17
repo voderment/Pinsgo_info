@@ -1,3 +1,6 @@
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8421bfe3-9ea2-483c-81d2-8a390607f0fb" />
+
+
 # Pinsgo
 
 Pinsgo is a lightweight macOS translation app designed for fast desktop workflows.
