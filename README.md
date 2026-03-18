@@ -16,6 +16,9 @@ It helps you translate content without breaking focus, whether you are reading, 
 - Use built-in translation features or supported cloud translation services
 - Customize hotkeys and workflow settings for daily use
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/748611da-295a-4315-9c8a-3fb13b6aff25" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d0a003f2-831a-4938-9f33-ae2924bb5fa6" />
+
 ## Who it is for
 
 Pinsgo is built for people who work with multiple languages on Mac, including:
