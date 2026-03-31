@@ -1,6 +1,6 @@
 # Pinsgo Terms of Use
 
-Effective date: 2026-03-16
+Effective date: 2026-03-31
 
 These Terms of Use govern your use of the Pinsgo macOS application, related built-in services, and any content or functionality made available through them.
 
@@ -67,6 +67,7 @@ Free limits, feature access, and entitlement rules may change.
 If Pinsgo offers auto-renewable subscriptions through Apple:
 
 - payment is charged through your Apple ID account;
+- subscription product name, duration, and localized price are shown in the App Store purchase sheet and in Pinsgo's subscription interface;
 - subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period;
 - you can manage or cancel subscriptions in your Apple account settings;
 - free trials, if offered, are only available to eligible users and convert to paid subscriptions unless cancelled in time; and
@@ -77,7 +78,12 @@ Pinsgo may also change feature availability, limits, or supported services over 
 
 ## 7. Permissions and device requirements
 
-Certain features require system permissions such as Accessibility or Screen Recording. If you do not grant those permissions, the related features will not work.
+Certain features require system permissions.
+
+- Accessibility permission is used for selection-based translation features.
+- Screen Recording permission is used for screenshot/OCR translation features.
+
+If you do not grant the required permissions, the related features will not work.
 
 You are responsible for maintaining a compatible device, operating system, and network connection.
 
