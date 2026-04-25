@@ -1,6 +1,6 @@
 # Pinsgo Terms of Use
 
-Effective date: 2026-03-31
+Effective date: 2026-04-16
 
 These Terms of Use govern your use of the Pinsgo macOS application, related built-in services, and any content or functionality made available through them.
 
@@ -19,8 +19,9 @@ If you do not agree, do not use Pinsgo.
 Pinsgo provides translation-related features that may include:
 
 - text translation;
-- selection-based translation using macOS accessibility features;
-- screenshot/OCR translation;
+- text adjustment, rewriting, or refinement;
+- selection-based translation or adjustment using macOS accessibility features;
+- screenshot/OCR translation or adjustment;
 - access to system, third-party, custom, or built-in translation sources; and
 - subscription-gated or quota-limited features.
 
@@ -45,7 +46,7 @@ You must not use Pinsgo to:
 
 ## 4. Translation output and service limitations
 
-Translation and OCR results may be incomplete, inaccurate, delayed, or unavailable. Pinsgo is not a professional translation, legal, medical, tax, accounting, or safety-critical service.
+Translation, text adjustment, and OCR results may be incomplete, inaccurate, delayed, or unavailable. Pinsgo is not a professional translation, legal, medical, tax, accounting, or safety-critical service.
 
 You are responsible for verifying output before using it for any important decision or publication.
 
@@ -67,7 +68,7 @@ Free limits, feature access, and entitlement rules may change.
 If Pinsgo offers auto-renewable subscriptions through Apple:
 
 - payment is charged through your Apple ID account;
-- subscription product name, duration, and localized price are shown in the App Store purchase sheet and in Pinsgo's subscription interface;
+- subscription product name, billing period (such as monthly or annual when offered), and localized price are shown in the App Store purchase sheet and in Pinsgo's subscription interface;
 - subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period;
 - you can manage or cancel subscriptions in your Apple account settings;
 - free trials, if offered, are only available to eligible users and convert to paid subscriptions unless cancelled in time; and
@@ -80,8 +81,8 @@ Pinsgo may also change feature availability, limits, or supported services over 
 
 Certain features require system permissions.
 
-- Accessibility permission is used for selection-based translation features.
-- Screen Recording permission is used for screenshot/OCR translation features.
+- Accessibility permission is used for selection-based translation and adjustment features.
+- Screen Recording permission is used for screenshot/OCR translation and adjustment features.
 
 If you do not grant the required permissions, the related features will not work.
 
