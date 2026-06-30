@@ -47,4 +47,4 @@ That is the idea behind Pinsgo: quick access, lightweight interaction, and pract
 
 For support, privacy, or business inquiries:
 
-`voderment@icloud.com`
+`feedback@pinsgo.cloud`
