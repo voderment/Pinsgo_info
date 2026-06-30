@@ -3,6 +3,8 @@
 
 # Pinsgo
 
+https://pinsgo.cloud/
+
 Pinsgo is a lightweight macOS app for translation and text adjustment, designed for fast desktop workflows.
 
 It helps you translate or refine content without breaking focus, whether you are reading, writing, researching, or working across languages.
@@ -38,8 +40,8 @@ That is the idea behind Pinsgo: quick access, lightweight interaction, and pract
 
 ## Legal documents
 
-- [Privacy Policy](./PrivacyPolicy.md)
-- [Terms of Use](./TermsOfUse.md)
+- https://pinsgo.cloud/privacy/
+- https://pinsgo.cloud/terms/
 
 ## Contact
 
